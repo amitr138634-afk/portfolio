@@ -57,13 +57,28 @@ gathering.</li>
     {/* Flipkart Internet Pvt Ltd */}
     <div className="mb-4">
       <h4 className="mb-1">Flipkart Internet Pvt Ltd</h4>
-      <div className="text-muted mb-1">Software Support Engineer | Feb 2021 – May 2022 | Bangalore, India</div>
+      <div className="text-muted mb-1">Software Support Engineer | Jan 2021 – May 2022 | Bangalore, India</div>
       <div className="mb-1"><b>Responsibilities:</b>
         <ul>
           <li>Designed, developed, and installed software solutions and developed high-quality software design and architecture as per vendor requirements.</li>
           <li>Collaborated with stakeholders and peers during the entire SDLC process to ensure timely delivery of release cycles.</li>
           <li>Developed, customized, and enhanced Spring Boot applications, reports, PL/SQL procedures, triggers, and functions.</li>
           <li>Collaborated with vendors and cross-functional teams to fix and improve product problem definition and requirements.</li>
+        </ul>
+      </div>
+      <div><b>Skills Used:</b> C++, MQTT, Python, PySpark, MySQL, C#, .NET Core, React, Spring Boot, PL/SQL</div>
+    </div>
+    <div className="mb-4">
+      <h4 className="mb-1">Flipkart Internet Pvt Ltd</h4>
+      <div className="text-muted mb-1">Inter | Dec 2019 – Jan 2021 | Bangalore, India</div>
+      <div className="mb-1"><b>Responsibilities:</b>
+        <ul>
+          <li>Developed and optimized SQL stored procedures to improve data retrieval and reporting efficiency.</li>
+          <li>Wrote and maintained complex queries for business requirements, ensuring accuracy and performance.</li>
+          <li>Collaborated with developers and analysts to analyze database needs and deliver effective solutions.</li>
+          <li>Assisted in debugging and troubleshooting stored procedure issues during development and testing phases.</li>
+          <li>Documented procedures and contributed to knowledge-sharing resources for the team.</li>
+          <li>Actively participated in team meetings and code reviews, promoting best practices in SQL development.</li>
         </ul>
       </div>
       <div><b>Skills Used:</b> C++, MQTT, Python, PySpark, MySQL, C#, .NET Core, React, Spring Boot, PL/SQL</div>
