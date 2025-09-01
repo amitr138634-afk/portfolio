@@ -1,8 +1,10 @@
 import React from 'react';
 const certifications = [
   { name: 'AWS Certified Solutions Architect', issuer: 'Amazon Web Services' },
-  { name: 'Certified Scrum Master', issuer: 'Scrum Alliance' },
+  { name: 'SQL Developer', issuer: 'Scrum Alliance' },
   { name: 'React Developer Certification', issuer: 'Udemy' },
+  { name: 'Prompt Engineering', issuer: 'Udemy' },
+  { name: '.net Developer', issuer: 'Udemy' },
 ];
 
 const Certifications: React.FC = () => (

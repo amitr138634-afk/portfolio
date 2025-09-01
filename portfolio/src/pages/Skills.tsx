@@ -16,9 +16,41 @@ const Skills: React.FC = () => (
             <td>React</td>
             <td>5 years</td>
           </tr>
+           <tr>
+            <td>C#</td>
+            <td>5 years</td>
+          </tr>
+          <tr>
+            <td>.NET Core</td>
+            <td>5 years</td>
+          </tr>
+          <tr>
+            <td>.NET WebAPI</td>
+            <td>5 years</td>
+          </tr>
+          <tr>
+            <td>Entity Framework</td>
+            <td>5 years</td>
+          </tr>
+          <tr>
+            <td>Python</td>
+            <td>4.5 years</td>
+          </tr>
+          <tr>
+            <td>Pandas</td>
+            <td>4 years</td>
+          </tr>
+          <tr>
+            <td>Numpy</td>
+            <td>4 years</td>
+          </tr>
+          <tr>
+            <td>JavaScript</td>
+            <td>5 years</td>
+          </tr>
           <tr>
             <td>Node.js</td>
-            <td>4.5 years</td>
+            <td>5 years</td>
           </tr>
           <tr>
             <td>TypeScript</td>
@@ -45,44 +77,8 @@ const Skills: React.FC = () => (
             <td>4 years</td>
           </tr>
           <tr>
-            <td>C++</td>
-            <td>4 years</td>
-          </tr>
-          <tr>
             <td>MQTT</td>
-            <td>4 years</td>
-          </tr>
-          <tr>
-            <td>C#</td>
-            <td>4.5 years</td>
-          </tr>
-          <tr>
-            <td>.NET Core</td>
-            <td>4.5 years</td>
-          </tr>
-          <tr>
-            <td>.NET WebAPI</td>
-            <td>4 years</td>
-          </tr>
-          <tr>
-            <td>Entity Framework</td>
-            <td>4 years</td>
-          </tr>
-          <tr>
-            <td>Python</td>
-            <td>4.5 years</td>
-          </tr>
-          <tr>
-            <td>Pandas</td>
-            <td>4 years</td>
-          </tr>
-          <tr>
-            <td>Numpy</td>
-            <td>4 years</td>
-          </tr>
-          <tr>
-            <td>JavaScript</td>
-            <td>5 years</td>
+            <td>3 years</td>
           </tr>
           <tr>
             <td>SQL &amp; PL/SQL</td>
@@ -110,7 +106,7 @@ const Skills: React.FC = () => (
           </tr>
           <tr>
             <td>Azure</td>
-            <td>4 years</td>
+            <td>5 years</td>
           </tr>
           <tr>
             <td>Jquery</td>
@@ -118,7 +114,7 @@ const Skills: React.FC = () => (
           </tr>
           <tr>
             <td>Ajax</td>
-            <td>4.5 years</td>
+            <td>5 years</td>
           </tr>
           {/* End updated skills */}
         </tbody>
