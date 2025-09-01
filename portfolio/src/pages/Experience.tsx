@@ -28,6 +28,23 @@ const Experience: React.FC = () => (
       <div className="text-muted mb-1">Associate Software Analyst | May 2022 – May 2024 | Chandigarh, India</div>
       <div className="mb-1"><b>Responsibilities:</b>
         <ul>
+          <li>As a team lead leaded the team and managed the entire process for the project work flows, solution designs, requirement
+gathering.</li>
+          <li>MS .NET/.NET Core/ .NET 5, Internet of Things (IoT) Associate Technical Architect (Azure/IoT) Developer on Azure Platform Working for Telenet Belgium, Dapr (Distributed Application Portable Runtime) Expert, Event Driven Architect for Distributed system. Application Packaging using Helm, Cloud-Native application developer, Kubernetes, Docker</li>
+          <li>Responsible for Application development of different Web based & Win Form based Applications using C#, ASP.Net, .Net framework 3.5, Microsoft Visual Studio 2008 IDE for C#.</li>
+          <li>Developed dynamic Asp.net application for Searching data, downloading & designing reports during run-time.</li>
+          <li>Responsible for Extensive use of object-oriented techniques and concepts with C#3.0.</li>
+          <li>Responsible for Developing (ASMX & WCF) Web services Applications for communicating with client App by hosting them</li>
+          <li>Development, Configuration & Deployment of SSIS Packages in SQL server 2008.</li>
+          <li>Developed a Defect Tracking Windows Application for automating the project quality audits using C#.Net 3.0, MS VS 2010 IDE for C#.</li>
+          <li>Developed a Rose-MIS Web Application for senior management.</li>
+          <li>Developed SSIS Packages for sending SMS using HTTP web Request/Response classes provided by the</li>
+          <li>Worked on existing and newly reported bug/defects and maintain bug tracker for future reference.</li>
+          <li>Requirement Analysis and Design Approaches. (Prepare design specification and impact analysis)</li>
+          <li>Tracks defects and helps troubleshoot errors.Documents and evaluates test results.</li>
+          <li>Interacting with Stakeholders for Business requirements, and Developments.</li>
+          <li>Implemented PLSQL Procedures for an application and Reporting.</li>
+          <li>Helped the team and delivered the project within the timelines.</li>
           <li>Designed and developed complex solutions for an AI-based application and IoT Edge applications.</li>
           <li>Developed Web Frontend applications using JavaScript, Angular, jQuery, and MySQL.</li>
           <li>Fixing the bugs raised in QA, UAT, and Production Environments.</li>
